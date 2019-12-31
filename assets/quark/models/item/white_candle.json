@@ -1,0 +1,7 @@
+{
+    "parent": "quark:item/template/candle",
+    "textures": {
+        "candle": "quark:block/white_candle",
+        "wick": "block/black_wool"
+    }
+}

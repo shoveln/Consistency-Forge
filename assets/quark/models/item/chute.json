@@ -1,0 +1,8 @@
+{
+    "parent": "quark:item/template/chute",
+    "textures": {
+        "side": "quark:block/chute_side",
+        "top": "quark:block/chute_top",
+        "bottom": "quark:block/chute_bottom"
+    }
+}

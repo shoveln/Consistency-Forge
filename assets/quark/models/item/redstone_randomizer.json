@@ -1,0 +1,8 @@
+{
+    "parent": "quark:item/template/randomizer",
+    "textures": {
+        "slab": "block/smooth_stone",
+        "top": "quark:block/randomizer_off",
+        "unlit": "block/redstone_torch_off"
+    }
+}

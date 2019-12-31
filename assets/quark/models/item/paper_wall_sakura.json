@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/pane",
+    "textures": {
+        "edge": "quark:block/paper_wall_top",
+        "pane": "quark:block/paper_wall_sakura"
+    }
+}
