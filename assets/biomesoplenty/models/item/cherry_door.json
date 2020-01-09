@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "biomesoplenty:block/cherry_door_top",
+        "bottom": "biomesoplenty:block/cherry_door_bottom"
+    }
+}
