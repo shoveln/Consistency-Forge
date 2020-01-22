@@ -1,0 +1,6 @@
+{
+    "parent": "bambooblocks:item/template/bamboo_torch",
+    "textures": {
+        "torch": "bambooblocks:block/bamboo_torch"
+    }
+}
