@@ -1,0 +1,6 @@
+{
+    "parent": "item/template/end_rod",
+    "textures": {
+		"end_rod": "quark:block/iron_rod"
+    }
+}
