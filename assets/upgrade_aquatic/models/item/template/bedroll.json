@@ -1,8 +1,7 @@
 {
     "parent": "upgrade_aquatic:item/orientation/bedroll",
     "elements": [
-        {
-            "from": [ 0, 0, -8 ],
+        {   "from": [ 0, 0, -8 ],
             "to": [ 16, 2, 8 ],
             "faces": {
                 "down":  { "uv": [ 4, 4.25, 8, 8.25 ], "texture": "#bedroll", "rotation": 180 },
@@ -12,8 +11,7 @@
                 "east":  { "uv": [ 0, 8.5, 4, 9 ], "texture": "#bedroll" }
             }
         },
-        {
-            "from": [ 0, 0, 8 ],
+        {   "from": [ 0, 0, 8 ],
             "to": [ 16, 2, 24 ],
             "faces": {
                 "down":  { "uv": [ 4, 0, 8, 4 ], "texture": "#bedroll", "rotation": 180 },
