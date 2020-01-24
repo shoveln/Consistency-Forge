@@ -1,0 +1,9 @@
+{
+    "parent": "simplefarming:item/template/birthday_cake",
+    "textures": {
+        "bottom": "simplefarming:block/birthday_cake_bottom",
+        "top": "simplefarming:block/birthday_cake_top",
+        "side": "simplefarming:block/birthday_cake_side",
+        "torch": "block/torch"
+    }
+}
