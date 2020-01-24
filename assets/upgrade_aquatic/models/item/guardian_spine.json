@@ -1,0 +1,6 @@
+{
+    "parent": "upgrade_aquatic:item/template/guardian_spine",
+    "textures": {
+        "end_rod": "upgrade_aquatic:block/guardian_spine"
+    }
+}
