@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "endergetic:block/poise_door_top",
+        "bottom": "endergetic:block/poise_door_bottom"
+    }
+}
