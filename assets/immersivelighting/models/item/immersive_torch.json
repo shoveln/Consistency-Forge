@@ -1,0 +1,6 @@
+{
+    "parent": "item/template/torch",
+    "textures": {
+        "torch": "immersivelighting:block/torch_unlit"
+    }
+}
