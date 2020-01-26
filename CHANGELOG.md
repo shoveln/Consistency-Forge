@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.1.0 - 2019-1-26
+## 1.1.0 - 2020-1-26
 ### Added
 #### [Bamboo Blocks](https://www.curseforge.com/minecraft/mc-mods/bamboo-blocks)
 - Bamboo door
