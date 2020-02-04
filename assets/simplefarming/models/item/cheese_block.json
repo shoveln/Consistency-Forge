@@ -1,0 +1,8 @@
+{
+    "parent": "item/template/cake",
+    "textures": {
+        "bottom": "simplefarming:block/cheese_bottom",
+        "top": "simplefarming:block/cheese_top",
+        "side": "simplefarming:block/cheese_side"
+    }
+}

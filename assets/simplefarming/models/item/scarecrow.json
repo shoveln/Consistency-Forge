@@ -1,0 +1,12 @@
+{
+    "parent": "simplefarming:item/template/scarecrow",
+    "textures": {
+        "planks": "block/oak_planks",
+        "torso": "simplefarming:block/scarecrow_torso",
+        "torso_top": "simplefarming:block/scarecrow_torso_top",
+        "pumpkin_side": "block/pumpkin_side",
+        "pumpkin_top": "block/pumpkin_top",
+        "pumpkin_bottom": "simplefarming:block/pumpkin_bot",
+        "pumpkin_front": "simplefarming:block/pumpkin_head"
+    }
+}
