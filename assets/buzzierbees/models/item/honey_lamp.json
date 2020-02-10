@@ -1,0 +1,6 @@
+{
+    "parent": "buzzierbees:item/template/honey_lamp",
+    "textures": {
+        "rod": "buzzierbees:block/honey_lamp"
+    }
+}

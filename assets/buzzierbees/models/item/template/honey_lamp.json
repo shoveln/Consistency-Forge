@@ -1,0 +1,39 @@
+{
+    "parent": "item/orientation/end_rod",
+    "elements": [
+        {
+            "from": [ 5, 0, 5 ],
+            "to": [ 11, 1, 11 ],
+            "faces": {
+                "down":  { "uv": [ 10, 10, 16, 16 ], "texture": "#rod" },
+                "up":    { "uv": [ 10, 10, 16, 16 ], "texture": "#rod" },
+                "north": { "uv": [ 10, 9, 16, 10 ], "texture": "#rod" },
+                "south": { "uv": [ 10, 9, 16, 10 ], "texture": "#rod" },
+                "west":  { "uv": [ 10, 9, 16, 10 ], "texture": "#rod" },
+                "east":  { "uv": [ 10, 9, 16, 10 ], "texture": "#rod" }
+            }
+        },
+        {
+            "from": [ 7, 1, 7 ],
+            "to": [ 9, 15, 9 ],
+            "faces": {
+                "up":    { "uv": [ 8, 14, 10, 16 ], "texture": "#rod" },
+                "north": { "uv": [ 8, 0, 10, 14 ], "texture": "#rod" },
+                "south": { "uv": [ 8, 0, 10, 14 ], "texture": "#rod" },
+                "west":  { "uv": [ 8, 0, 10, 14 ], "texture": "#rod" },
+                "east":  { "uv": [ 8, 0, 10, 14 ], "texture": "#rod" }
+            }
+        },
+        {
+            "from": [ 6, 1, 6 ],
+            "to": [ 10, 16, 10 ],
+            "faces": {
+                "up":    { "uv": [ 4, 0, 8, 4 ], "texture": "#rod" },
+                "north": { "uv": [ 0, 0, 4, 15 ], "texture": "#rod" },
+                "south": { "uv": [ 0, 0, 4, 15 ], "texture": "#rod" },
+                "west":  { "uv": [ 0, 0, 4, 15 ], "texture": "#rod" },
+                "east":  { "uv": [ 0, 0, 4, 15 ], "texture": "#rod" }
+            }
+        }
+    ]
+}
