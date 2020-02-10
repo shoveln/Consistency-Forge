@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "buzzierbees:block/hive_door_top",
+        "bottom": "buzzierbees:block/hive_door_bottom"
+    }
+}
