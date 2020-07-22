@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "byg:blocks/jacaranda_door_top",
+        "bottom": "byg:blocks/jacaranda_door_bottom"
+    }
+}

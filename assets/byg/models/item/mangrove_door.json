@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "byg:blocks/mangrove_door_top",
+        "bottom": "byg:blocks/mangrove_door_bottom"
+    }
+}

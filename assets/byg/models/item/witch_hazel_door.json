@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "byg:blocks/witch_hazel_door_top",
+        "bottom": "byg:blocks/witch_hazel_door_bottom"
+    }
+}
