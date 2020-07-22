@@ -1,0 +1,11 @@
+{
+    "parent": "item/template/block_minecart",
+    "textures": {
+        "minecart": "entity/minecart",
+        "up": "immersiveengineering:block/wooden_device/reinforced_crate",
+        "north": "immersiveengineering:block/wooden_device/reinforced_crate",
+        "south": "immersiveengineering:block/wooden_device/reinforced_crate",
+        "east": "immersiveengineering:block/wooden_device/reinforced_crate",
+        "west": "immersiveengineering:block/wooden_device/reinforced_crate"
+    }
+}
