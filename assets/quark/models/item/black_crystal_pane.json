@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/pane",
+    "textures": {
+        "edge": "quark:block/black_crystal",
+        "pane": "quark:block/black_crystal"
+    }
+}

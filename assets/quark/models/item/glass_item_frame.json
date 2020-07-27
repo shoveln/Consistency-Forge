@@ -1,0 +1,6 @@
+{
+    "parent": "quark:item/template/glass_item_frame",
+    "textures": {
+        "frame": "block/glass"
+    }
+}

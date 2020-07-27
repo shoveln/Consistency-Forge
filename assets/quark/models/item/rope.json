@@ -1,0 +1,6 @@
+{
+    "parent": "quark:item/template/rope",
+    "textures": {
+        "rope": "quark:block/rope"
+    }
+}
