@@ -1,0 +1,6 @@
+{
+    "parent": "item/template/torch",
+    "textures": {
+        "torch": "torcherino:blocks/compressed_torcherino"
+    }
+}

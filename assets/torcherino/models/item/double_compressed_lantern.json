@@ -1,0 +1,6 @@
+{
+    "parent": "item/template/lantern",
+    "textures": {
+        "lantern": "torcherino:blocks/double_compressed_lantern"
+    }
+}
