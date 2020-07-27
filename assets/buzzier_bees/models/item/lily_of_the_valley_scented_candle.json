@@ -1,0 +1,6 @@
+{
+    "parent": "buzzier_bees:item/template/candle",
+    "textures": {
+        "candle": "buzzier_bees:block/lily_of_the_valley_scented_candle"
+    }
+}
