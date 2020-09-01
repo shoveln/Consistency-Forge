@@ -1,0 +1,7 @@
+{
+    "parent": "inspirations:item/template/rope",
+    "textures": {
+        "rope":  "inspirations:block/vine",
+        "bottom":  "inspirations:block/vine_bottom"
+    }
+}
