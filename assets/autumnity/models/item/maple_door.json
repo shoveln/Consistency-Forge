@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "autumnity:block/maple_door_top",
+        "bottom": "autumnity:block/maple_door_bottom"
+    }
+}
