@@ -1,0 +1,6 @@
+{
+    "parent": "upgrade_aquatic:item/template/jelly_torch",
+    "textures": {
+        "torch": "upgrade_aquatic:block/purple_jelly_torch"
+    }
+}

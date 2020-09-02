@@ -1,0 +1,27 @@
+{
+    "parent": "item/orientation/torch",
+    "elements": [
+        {   "from": [ 7, 0, 7 ],
+            "to": [ 9, 9, 9 ],
+            "faces": {
+                "down":  { "uv": [ 10, 2, 12, 4 ], "texture": "#torch" },
+                "up":    { "uv": [ 10, 0, 12, 2 ], "texture": "#torch" },
+                "north": { "uv": [ 0, 0, 2, 9 ], "texture": "#torch" },
+                "south": { "uv": [ 2, 0, 4, 9 ], "texture": "#torch" },
+                "west":  { "uv": [ 4, 0, 6, 9 ], "texture": "#torch" },
+                "east":  { "uv": [ 6, 0, 8, 9 ], "texture": "#torch" }
+            }
+        },
+        {   "from": [ 6, 6, 6 ],
+            "to": [ 10, 10, 10 ],
+            "faces": {
+                "down":  { "uv": [ 12, 4, 16, 8 ], "texture": "#torch" },
+                "up":    { "uv": [ 12, 0, 16, 4 ], "texture": "#torch" },
+                "north": { "uv": [ 4, 9, 8, 13 ], "texture": "#torch" },
+                "south": { "uv": [ 12, 9, 16, 13 ], "texture": "#torch" },
+                "west":  { "uv": [ 8, 9, 12, 13 ], "texture": "#torch" },
+                "east":  { "uv": [ 0, 9, 4, 13 ], "texture": "#torch" }
+            }
+        }
+    ]
+}
