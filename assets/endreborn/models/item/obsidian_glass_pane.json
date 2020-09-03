@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/pane",
+    "textures": {
+        "edge": "endreborn:block/obsidian_glass_pane_top",
+        "pane": "endreborn:block/obsidian_glass"
+    }
+}
