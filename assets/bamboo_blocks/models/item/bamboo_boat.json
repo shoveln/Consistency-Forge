@@ -1,0 +1,6 @@
+{
+    "parent": "item/template/boat",
+    "textures": {
+        "boat": "bamboo_blocks:entity/boat/bamboo"
+    }
+}
