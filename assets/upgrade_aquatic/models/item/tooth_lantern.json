@@ -1,0 +1,6 @@
+{
+    "parent": "upgrade_aquatic:item/template/tooth_lantern",
+    "textures": {
+        "lantern": "upgrade_aquatic:block/tooth_lantern"
+    }
+}
