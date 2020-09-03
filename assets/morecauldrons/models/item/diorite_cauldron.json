@@ -1,0 +1,9 @@
+{
+    "parent": "item/template/cauldron",
+    "textures": {
+        "top": "block/diorite",
+        "bottom": "block/diorite",
+        "side": "block/diorite",
+        "inside": "block/diorite"
+    }
+}

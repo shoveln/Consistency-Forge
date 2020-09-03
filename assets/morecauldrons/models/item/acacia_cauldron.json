@@ -1,0 +1,9 @@
+{
+    "parent": "item/template/cauldron",
+    "textures": {
+        "top": "block/acacia_planks",
+        "bottom": "block/acacia_planks",
+        "side": "block/acacia_planks",
+        "inside": "block/acacia_planks"
+    }
+}

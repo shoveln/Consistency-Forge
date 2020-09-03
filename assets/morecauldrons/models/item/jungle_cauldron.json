@@ -1,0 +1,9 @@
+{
+    "parent": "item/template/cauldron",
+    "textures": {
+        "top": "block/jungle_planks",
+        "bottom": "block/jungle_planks",
+        "side": "block/jungle_planks",
+        "inside": "block/jungle_planks"
+    }
+}

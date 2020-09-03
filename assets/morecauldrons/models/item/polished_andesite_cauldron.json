@@ -1,0 +1,9 @@
+{
+    "parent": "item/template/cauldron",
+    "textures": {
+        "top": "block/polished_andesite",
+        "bottom": "block/polished_andesite",
+        "side": "block/polished_andesite",
+        "inside": "block/polished_andesite"
+    }
+}
