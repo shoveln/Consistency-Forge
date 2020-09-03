@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "atmospheric:block/yucca_door_top",
+        "bottom": "atmospheric:block/yucca_door_bottom"
+    }
+}

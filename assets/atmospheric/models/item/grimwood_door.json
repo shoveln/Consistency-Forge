@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "atmospheric:block/grimwood_door_top",
+        "bottom": "atmospheric:block/grimwood_door_bottom"
+    }
+}

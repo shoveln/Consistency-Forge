@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "atmospheric:block/rosewood_door_top",
+        "bottom": "atmospheric:block/rosewood_door_bottom"
+    }
+}
