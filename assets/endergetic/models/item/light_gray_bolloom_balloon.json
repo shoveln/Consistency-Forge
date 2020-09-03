@@ -1,0 +1,6 @@
+{
+    "parent": "endergetic:item/template/balloon",
+    "textures": {
+        "balloon": "endergetic:entity/balloon/light_gray_bolloom_balloon"
+    }
+}

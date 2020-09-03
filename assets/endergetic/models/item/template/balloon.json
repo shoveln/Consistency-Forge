@@ -1,0 +1,44 @@
+{
+    "parent": "endergetic:item/orientation/balloon",
+    "elements": [
+        {   "from": [ 7, -8, 8 ],
+            "to": [ 9, 8, 8 ],
+            "faces": {
+                "north": { "uv": [ 8.5, 8, 7.5, 16 ], "texture": "#balloon" },
+                "south": { "uv": [ 8.5, 8, 7.5, 16 ], "texture": "#balloon" }
+            }
+        },
+        {   "from": [ 7, 8, 8 ],
+            "to": [ 9, 24, 8 ],
+            "faces": {
+                "north": { "uv": [ 2, 8, 1, 16 ], "texture": "#balloon" },
+                "south": { "uv": [ 2, 8, 1, 16 ], "texture": "#balloon" }
+            }
+        },
+        {   "from": [ 8, -8, 7 ],
+            "to": [ 8, 8, 9 ],
+            "faces": {
+                "west" : { "uv": [ 7.5, 8, 8.5, 16 ], "texture": "#balloon" },
+                "east" : { "uv": [ 7.5, 8, 8.5, 16 ], "texture": "#balloon" }
+            }
+        },
+        {   "from": [ 8, 8, 7 ],
+            "to": [ 8, 24, 9 ],
+            "faces": {
+                "west" : { "uv": [ 1, 8, 2, 16 ], "texture": "#balloon" },
+                "east" : { "uv": [ 1, 8, 2, 16 ], "texture": "#balloon" }
+            }
+        },
+        {   "from": [ 4, 24, 4 ],
+            "to": [ 12, 32, 12 ],
+            "faces": {
+                "down":  { "uv": [ 8, 0, 12, 4 ], "texture": "#balloon", "rotation": 180 },
+                "up":    { "uv": [ 4, 0, 8, 4 ], "texture": "#balloon", "rotation": 90 },
+                "north": { "uv": [ 0, 4, 4, 8 ], "texture": "#balloon" },
+                "south": { "uv": [ 8, 4, 12, 8 ], "texture": "#balloon" },
+                "west":  { "uv": [ 4, 4, 8, 8 ], "texture": "#balloon" },
+                "east":  { "uv": [ 12, 4, 16, 8 ], "texture": "#balloon" }
+            }
+        }
+    ]
+}
