@@ -1,0 +1,6 @@
+{
+    "parent": "buzzier_bees:item/template/candle",
+    "textures": {
+        "candle": "buzzier_bees:block/scalding_monkey_brush_scented_candle"
+    }
+}
