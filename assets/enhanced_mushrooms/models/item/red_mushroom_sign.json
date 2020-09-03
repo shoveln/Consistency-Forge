@@ -1,0 +1,6 @@
+{
+    "parent": "item/template/sign",
+    "textures": {
+        "sign": "enhanced_mushrooms:entity/signs/red_mushroom"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "enhanced_mushrooms:block/glowshroom_door_top",
+        "bottom": "enhanced_mushrooms:block/glowshroom_door_bottom"
+    }
+}

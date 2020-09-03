@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "enhanced_mushrooms:block/red_mushroom_door_top",
+        "bottom": "enhanced_mushrooms:block/red_mushroom_door_bottom"
+    }
+}
