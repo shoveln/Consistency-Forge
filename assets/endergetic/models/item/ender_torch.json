@@ -1,0 +1,6 @@
+{
+    "parent": "item/template/torch",
+    "textures": {
+        "torch": "endergetic:block/ender_torch"
+    }
+}
