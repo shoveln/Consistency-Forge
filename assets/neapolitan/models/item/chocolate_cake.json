@@ -1,0 +1,8 @@
+{
+    "parent": "item/template/cake",
+    "textures": {
+        "bottom": "neapolitan:block/chocolate_cake_bottom",
+        "top": "neapolitan:block/chocolate_cake_top",
+        "side": "neapolitan:block/chocolate_cake_side"
+    }
+}
