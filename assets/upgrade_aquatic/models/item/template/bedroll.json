@@ -1,5 +1,5 @@
 {
-    "parent": "upgrade_aquatic:item/orientation/bedroll",
+    "parent": "comforts:item/orientation/sleeping_bag",
     "elements": [
         {   "from": [ 0, 0, 0 ],
             "to": [ 16, 2, 16 ],
