@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "good_nights_sleep:block/white_door_top",
+        "bottom": "good_nights_sleep:block/white_door_bottom"
+    }
+}

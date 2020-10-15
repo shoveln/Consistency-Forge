@@ -1,0 +1,6 @@
+{
+	"parent": "good_nights_sleep:item/template/luxurious_bed",
+	"textures": {
+		"bed": "good_nights_sleep:entity/strange_bed"
+	}
+}
