@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "dustrial_decor:block/chain_door_top",
+        "bottom": "dustrial_decor:block/chain_door_bottom"
+    }
+}

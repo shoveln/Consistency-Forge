@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "dustrial_decor:block/industrial_iron_door_top",
+        "bottom": "dustrial_decor:block/industrial_iron_door_bottom"
+    }
+}
