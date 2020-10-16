@@ -1,0 +1,7 @@
+{
+    "parent": "comforts:item/template/rope_and_nail",
+    "textures": {
+        "knot": "minecraft:entity/lead_knot",
+        "nail": "comforts:block/nail"
+    }
+}

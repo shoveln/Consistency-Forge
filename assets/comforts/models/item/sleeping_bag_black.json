@@ -1,6 +1,6 @@
 {
-	"parent": "comforts:item/template/sleeping_bag",
-	"textures": {
-		"bag": "comforts:entity/sleeping_bag/black"
-	}
+    "parent": "comforts:item/template/sleeping_bag",
+    "textures": {
+        "bag": "comforts:entity/sleeping_bag/black"
+    }
 }
