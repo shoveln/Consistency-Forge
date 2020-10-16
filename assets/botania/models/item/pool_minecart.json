@@ -1,0 +1,7 @@
+{
+    "parent": "botania:item/template/pool_minecart",
+    "textures": {
+        "minecart": "entity/minecart",
+        "pool": "botania:block/livingrock"
+    }
+}

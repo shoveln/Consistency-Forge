@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/pane",
+    "textures": {
+        "edge": "botania:block/elf_glass_pane",
+        "pane": "botania:block/elf_glass"
+    }
+}

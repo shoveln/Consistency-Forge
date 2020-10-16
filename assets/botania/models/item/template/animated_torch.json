@@ -1,0 +1,29 @@
+{
+    "parent": "botania:item/orientation/animated_torch",
+    "elements": [
+        {   "from": [ 7, 0, 3 ],
+            "to": [ 9, 2, 13 ],
+            "shade": false,
+            "faces": {
+                "north":  { "uv": [ 7, 13, 9, 15 ], "texture": "#torch", "rotation": 180 },
+                "south":  { "uv": [ 7, 6, 9, 8 ], "texture": "#torch" }
+            }
+        },
+        {   "from": [ 7, -7, 3 ],
+            "to": [ 9, 9, 19 ],
+            "shade": false,
+            "faces": {
+                "east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#torch", "rotation": 270 },
+                "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#torch", "rotation": 90 }
+            }
+        },
+        {   "from": [ 0, 0, 3 ],
+            "to": [ 16, 2, 19 ],
+            "shade": false,
+            "faces": {
+                "up": { "uv": [ 0, 0, 16, 16 ], "texture": "#torch", "rotation": 180 },
+                "down": { "uv": [ 0, 0, 16, 16 ], "texture": "#torch" }
+            }
+        }
+    ]
+}

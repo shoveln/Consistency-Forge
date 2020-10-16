@@ -1,0 +1,6 @@
+{
+    "parent": "botania:item/template/animated_torch",
+    "textures": {
+        "torch": "minecraft:block/redstone_torch"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/pane",
+    "textures": {
+        "edge": "botania:block/bifrost_pane",
+        "pane": "botania:block/bifrost"
+    }
+}
