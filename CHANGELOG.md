@@ -1,11 +1,40 @@
 # Changelog
 
+## 3.2.0 - 2020-10-21
+### Added
+- [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
+    - Animated Torch
+    - Glass Panes
+    - Minecart with Mana Pool
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
+    - Sleeping Bags
+    - Hammocks
+    - Rope and Nail
+- ['Dustrial Decor](https://www.curseforge.com/minecraft/mc-mods/dustrial-decor)
+    - Doors
+- [Endergetic Expansion](https://www.curseforge.com/minecraft/mc-mods/endergetic)
+    - Lantern
+    - Torch
+- [Good Night's Sleep](https://www.curseforge.com/minecraft/mc-mods/good-nights-sleep)
+    - Beds
+    - Doors
+    - Pot of Gold
+- [Neapolitan](https://www.curseforge.com/minecraft/mc-mods/neapolitan)
+    - Cakes
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
+    - Iron Rod
+### Changes
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
+    - Armor stand now has arms
+- [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)
+    - Bedroll orientation moved to Comforts
+
 ## 3.1.0 - 2020-9-8
 ### Added
 - [Atmospheric](https://www.curseforge.com/minecraft/mc-mods/atmospheric)
-    - Boats (Rosewood/Aspen/Yucca/Kousa/Grimwood)
-    - Doors (Rosewood/Aspen/Yucca/Kousa/Grimwood)
-    - Signs (Rosewood/Aspen/Yucca/Kousa/Grimwood)
+    - Boats
+    - Doors
+    - Signs
 - [Autumnity](https://www.curseforge.com/minecraft/mc-mods/autumnity)
     - Maple Boat
     - Maple Door
@@ -14,18 +43,18 @@
     - Bamboo Boat
     - Bamboo Door
     - Bamboo Sign
-    - Bamboo Torches (Normal/Soul)
+    - Bamboo Torches
 - [Buzzier Bees](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees)
     - Added remaining candles
 - [End: Reborn](https://www.curseforge.com/minecraft/mc-mods/end-reborn)
-    - Obsidian Glass Panes (Decorated/Framed)
+    - Obsidian Glass Panes
     - Purpur Lantern
 - [Endergetic Expansion](https://www.curseforge.com/minecraft/mc-mods/endergetic)
     - Bollooms
 - [Enhanced Mushrooms](https://www.curseforge.com/minecraft/mc-mods/enhanced-mushrooms)
-    - Boats (Glowshroom/Brown Mushroom/Red Mushroom)
-    - Doors (Glowshroom/Brown Mushroom/Red Mushroom)
-    - Signs (Glowshroom/Brown Mushroom/Red Mushroom)
+    - Boats
+    - Doors
+    - Signs
 - [Inspirations](https://www.curseforge.com/minecraft/mc-mods/inspirations)
     - Glass Door
     - Vine/Rope
@@ -34,9 +63,9 @@
     - Cauldrons (Acacia/Cobblestone/Andesite/Oak/Granite/.../Obsidian/Spruce/Glass)
 - [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)
     - Tooth Lantern
-    - Boats (Driftwood/River)
-    - Doors (Driftwood/River/Tooth)
-    - Signs (Driftwood/River)
+    - Boats
+    - Doors
+    - Signs
     - Jelly Torches
     - Bedrolls
 ### Changes
@@ -46,8 +75,8 @@
 ## 3.0.0 - 2020-7-27
 ### Added
 - [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
-    - Boats (Magic/Cherry/Hellbark/Willow/Jacaranda/Dead/Palm/Redwood/Fir/Mahogany/Umbran)
-    - Doors (Magic/Cherry/Hellbark/Willow/Jacaranda/Dead/Palm/Redwood/Fir/Mahogany/Umbran)
+    - Boats
+    - Doors
 - [Buzzier Bees](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees)
     - Candles
 - [Endergetic Expansion](https://www.curseforge.com/minecraft/mc-mods/endergetic)
@@ -55,28 +84,29 @@
     - Poise Door
     - Poise Sign
 - [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
-    - Minecarts (Wooden Barrel/Storage Crate/Reinforced Crate/Metal Barrel)
+    - Minecarts
 - [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
     - Conveyor
 - [Oh The Biomes  You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)
-    - Boats (Blue Enchanted/Cherry/Cika/Cypress/Ebony/Fir/.../Baobab/Rainbow Eucalyptus/Mahogany)
-    - Doors (Blue Enchanted/Cherry/Cika/Cypress/Ebony/Fir/.../Baobab/Rainbow Eucalyptus/Mahogany)
+    - Boats
+    - Doors
     - Glowstone Lantern
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
     - Candles
     - Chute
     - Crystal Sheets
-    - Glass Panes (Dirty/Framed)
-    - Item Frames (Glass/Colored)
-    - Paper Walls (Normal/Decorated/Big)
+    - Glass Panes
+    - Item Frames
+    - Paper Walls
     - Redstone Randomizer
     - Rope
 - [Simple Farming](https://www.curseforge.com/minecraft/mc-mods/simple-farming)
-    - Cakes (Birthday/Chocolate)
+    - Birthday Cake
+    - Chocolate Cake
     - Cheese
     - Scarecrow
 - [Torcherino](https://www.curseforge.com/minecraft/mc-mods/torcherino)
-    - Torcherinos (Normal/Compressed/Double Compressed)
-    - Lanterinos (Normal/Compressed/Double Compressed)
+    - Torcherinos
+    - Lanterinos
 ### Changes
 - Simplified Quark candle model
