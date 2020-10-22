@@ -1,0 +1,6 @@
+{
+    "parent": "quark:item/template/iron_rod",
+    "textures": {
+        "iron_rod": "quark:block/iron_rod"
+    }
+}
