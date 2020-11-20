@@ -1,0 +1,49 @@
+{
+    "loader": "forge:obj",
+    "model": "immersiveengineering:models/block/wooden_device/workbench_old.obj",
+    "flip-v": true,
+    "transform": {
+	    "gui": {
+		    "rotation": [ 30, 45, 0 ],
+			"translation": [ -0.14, -0.18, 0 ],
+			"scale": 0.4125,
+            "origin": "corner"
+        },
+        "ground": {
+		    "rotation": [ 0, 180, 0 ],
+			"translation": [ 0.125, 0, 0 ],
+			"scale": 0.25,
+            "origin": "corner"
+        },
+        "fixed": {
+		    "rotation": [ 0, 180, 0 ],
+			"translation": [ 0.25, 0, 0 ],
+			"scale": 0.5,
+            "origin": "corner"
+        },
+	    "thirdperson_righthand": {
+		    "rotation": [ 75, -45, 0 ],
+			"translation": [ -0.265, 0.3515, -0.1435 ],
+			"scale": 0.375,
+            "origin": "corner"
+        },
+	    "thirdperson_lefthand": {
+		    "rotation": [ 75, -45, 0 ],
+			"translation": [ 0, 0.1115, -0.0145 ],
+			"scale": 0.375,
+            "origin": "corner"
+        },
+	    "firstperson_righthand": {
+		    "rotation": [ 0, -45, 0 ],
+			"translation": [ -0.25, -0.0625, -0.125 ],
+			"scale": 0.4,
+            "origin": "corner"
+        },
+	    "firstperson_lefthand": {
+		    "rotation": [ 0, -45, 0 ],
+			"translation": [ 0.032, -0.0585, 0.165 ],
+			"scale": 0.4,
+            "origin": "corner"
+        }
+    }
+}
