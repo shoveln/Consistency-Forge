@@ -1,0 +1,13 @@
+{
+    "loader": "forge:obj",
+    "model": "immersiveengineering:models/block/metal_multiblock/metal_press.obj",
+    "flip-v": true,
+    "transform": {
+	    "gui": {
+		    "rotation": [ 30, -45, 0 ],
+			"translation": [ 0, 0.075, 0 ],
+			"scale": 0.2825,
+            "origin": "corner"
+        }
+    }
+}
