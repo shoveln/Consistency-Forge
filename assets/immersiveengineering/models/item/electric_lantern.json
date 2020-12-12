@@ -5,7 +5,7 @@
     "flip-v": true,
     "transform": {
 	    "gui": {
-		    "rotation": [ -0.09904575, 0.89239913, 0.23911762, -0.36964378 ],
+		    "rotation": [ 30, 225, 0 ],
 			"translation": [ 0, 0, 0 ],
 			"scale": 0.625,
             "origin": "corner"

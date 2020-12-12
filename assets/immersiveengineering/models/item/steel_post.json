@@ -1,46 +1,47 @@
-{
+{   
     "loader": "forge:obj",
-    "model": "immersiveengineering:models/block/lantern_inventory.obj",
+    "model": "immersiveengineering:models/block/wooden_device/wooden_post_inv.obj",
+    "textures": { "post":"immersiveengineering:block/metal_decoration/steel_post" },
     "flip-v": true,
     "transform": {
 	    "gui": {
 		    "rotation": [ 30, 225, 0 ],
-			"translation": [ 0, 0, 0 ],
-			"scale": 0.625,
+			"translation": [ 0, -0.33, 0 ],
+			"scale": 0.2585,
             "origin": "corner"
         },
         "ground": {
 		    "rotation": [ 0, 0, 0 ],
-			"translation": [ 0, -0.0135, 0 ],
+			"translation": [ 0, 0, 0 ],
 			"scale": 0.25,
             "origin": "corner"
         },
         "fixed": {
 		    "rotation": [ 0, 0, 0 ],
-			"translation": [ 0, 0.016, 0 ],
-			"scale": 0.5,
+			"translation": [ 0, -0.3785, 0 ],
+			"scale": 0.25,
             "origin": "corner"
         },
 	    "thirdperson_righthand": {
-		    "rotation": [ 75, 45, 0 ],
-			"translation": [ 0, 0.05, 0 ],
+		    "rotation": [ 75, 135, 0 ],
+			"translation": [ 0, 0.04, 0 ],
 			"scale": 0.375,
             "origin": "corner"
         },
 	    "thirdperson_lefthand": {
-		    "rotation": [ 75, -45, 0 ],
-			"translation": [ 0, 0.05, 0 ],
+		    "rotation": [ 75, 135, 0 ],
+			"translation": [ 0, 0.04, 0 ],
 			"scale": 0.375,
             "origin": "corner"
         },
 	    "firstperson_righthand": {
-		    "rotation": [ 0, 45, 0 ],
+		    "rotation": [ 0, 135, 0 ],
 			"translation": [ 0, 0, 0 ],
 			"scale": 0.4,
             "origin": "corner"
         },
 	    "firstperson_lefthand": {
-		    "rotation": [ 0, 225, 0 ],
+		    "rotation": [ 0, 135, 0 ],
 			"translation": [ 0, 0, 0],
 			"scale": 0.4,
             "origin": "corner"
