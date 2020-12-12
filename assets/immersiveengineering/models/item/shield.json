@@ -1,0 +1,49 @@
+{
+    "loader":"immersiveengineering:ie_obj",
+    "model":"immersiveengineering:models/item/shield.obj.ie",
+    "flip-v": true,
+    "transform": {
+	    "gui": {
+		    "rotation": [ 30, 225, 0 ],
+			"translation": [ -0.4, 0.34, 0 ],
+			"scale": 0.625,
+            "origin": "corner"
+        },
+        "ground": {
+            "rotation": [ 0, 90, 0 ],
+			"translation": [ 0.1249, 0.2025, -0.11675 ],
+			"scale": 0.25,
+            "origin": "corner"
+        },
+        "fixed": {
+		    "rotation": [ 0, 90, 0 ],
+			"translation": [ 0.2498, 0.2805, -0.2335 ],
+			"scale": 0.5,
+            "origin": "corner"
+        },
+	    "thirdperson_righthand": {
+            "rotation": [ 0, 0, 0 ],
+			"translation": [ 0.5925, 0.375, 0.75 ],
+			"scale": 1,
+            "origin": "corner"
+        },
+	    "thirdperson_lefthand": {
+            "rotation": [ 0, 180, 0 ],
+			"translation": [ 0.5925, 0.375, -0.25 ],
+			"scale": 1,
+            "origin": "corner"
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0.03534061, 0.70622313, -0.03534061, 0.70622313 ],
+            "translation": [ 0.5099813, 0.074458815, -0.5 ],
+            "scale": 1.0,
+            "origin": "corner"
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -0.03534061, -0.70622313, -0.03534061, 0.70622313 ],
+            "translation": [ -0.4850229, 0.17429222, -0.5],
+            "scale": 1.0,
+            "origin": "corner"
+        }
+    }
+}
