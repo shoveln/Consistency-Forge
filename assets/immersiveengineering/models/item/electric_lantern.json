@@ -1,0 +1,50 @@
+{
+    "loader": "forge:obj",
+    "model": "immersiveengineering:models/block/metal_device/e_lantern.obj",
+    "textures": { "texture":"immersiveengineering:block/metal_device/electric_lantern" },
+    "flip-v": true,
+    "transform": {
+	    "gui": {
+		    "rotation": [ -0.09904575, 0.89239913, 0.23911762, -0.36964378 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": 0.625,
+            "origin": "corner"
+        },
+        "ground": {
+		    "rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": 0.25,
+            "origin": "corner"
+        },
+        "fixed": {
+		    "rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": 0.5,
+            "origin": "corner"
+        },
+	    "thirdperson_righthand": {
+		    "rotation": [ 75, 45, 0 ],
+			"translation": [ 0, 0.05, 0 ],
+			"scale": 0.375,
+            "origin": "corner"
+        },
+	    "thirdperson_lefthand": {
+		    "rotation": [ 75, -45, 0 ],
+			"translation": [ 0, 0.05, 0 ],
+			"scale": 0.375,
+            "origin": "corner"
+        },
+	    "firstperson_righthand": {
+		    "rotation": [ 0, 45, 0 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": 0.4,
+            "origin": "corner"
+        },
+	    "firstperson_lefthand": {
+		    "rotation": [ 0, 225, 0 ],
+			"translation": [ 0, 0, 0],
+			"scale": 0.4,
+            "origin": "corner"
+        }
+    }
+}
