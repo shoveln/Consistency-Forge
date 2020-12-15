@@ -1,0 +1,49 @@
+{
+    "loader": "forge:obj",
+    "model": "immersiveengineering:models/block/metal_device/floodlight.obj.ie",
+    "flip-v": true,
+    "transform": {
+	    "gui": {
+		    "rotation": [ 30, 225, 0 ],
+			"translation": [ -0.44, 0.3385, 0 ],
+			"scale": 0.625,
+            "origin": "corner"
+        },
+        "ground": {
+		    "rotation": [ 0, 0, 0 ],
+			"translation": [ 0.125, 0.15625, 0.125 ],
+			"scale": 0.25,
+            "origin": "corner"
+        },
+        "fixed": {
+		    "rotation": [ 0, 0, 0 ],
+			"translation": [ 0.25, 0.3125, 0.25 ],
+			"scale": 0.5,
+            "origin": "corner"
+        },
+	    "thirdperson_righthand": {
+		    "rotation": [ 75, -45, 0 ],
+			"translation": [ 0, -0.0575, 0.355 ],
+			"scale": 0.375,
+            "origin": "corner"
+        },
+	    "thirdperson_lefthand": {
+		    "rotation": [ 75, -45, 0 ],
+			"translation": [ -0.2645, 0.2, 0.2875 ],
+			"scale": 0.375,
+            "origin": "corner"
+        },
+	    "firstperson_righthand": {
+		    "rotation": [ 0, -45, 0 ],
+			"translation": [ 0, 0.225, 0.2825 ],
+			"scale": 0.4,
+            "origin": "corner"
+        },
+	    "firstperson_lefthand": {
+		    "rotation": [ 0, -45, 0 ],
+			"translation": [ -0.3, 0.225, 0 ],
+			"scale": 0.4,
+            "origin": "corner"
+        }
+    }
+}
