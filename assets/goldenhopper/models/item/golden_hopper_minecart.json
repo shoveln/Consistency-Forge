@@ -1,0 +1,9 @@
+{
+    "parent": "item/template/hopper_minecart",
+    "textures": {
+        "minecart": "entity/minecart",
+        "top": "goldenhopper:block/golden_hopper_top",
+        "outside": "goldenhopper:block/golden_hopper_outside",
+        "inside": "goldenhopper:block/golden_hopper_inside"
+    }
+}
