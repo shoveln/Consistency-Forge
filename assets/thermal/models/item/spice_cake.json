@@ -1,0 +1,8 @@
+{
+    "parent": "item/template/cake",
+    "textures": {
+    "bottom": "thermal:block/foods/spice_cake_bottom",
+    "top": "thermal:block/foods/spice_cake_top",
+    "side": "thermal:block/foods/spice_cake_side"
+    }
+}
