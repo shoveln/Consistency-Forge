@@ -60,7 +60,7 @@
     - Vine/Rope
     - Torch Lever
 - [More Cauldrons](https://www.curseforge.com/minecraft/mc-mods/more-cauldrons)
-    - Cauldrons (Acacia/Cobblestone/Andesite/Oak/Granite/.../Obsidian/Spruce/Glass)
+    - Cauldrons
 - [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)
     - Tooth Lantern
     - Boats
