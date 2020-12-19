@@ -1,0 +1,11 @@
+{
+    "parent": "item/template/block_minecart",
+    "textures": {
+        "minecart": "entity/minecart",
+        "up": "thermal:block/misc/phyto_tnt_top",
+        "north": "thermal:block/misc/phyto_tnt_side",
+        "south": "thermal:block/misc/phyto_tnt_side",
+        "east": "thermal:block/misc/phyto_tnt_side",
+        "west": "thermal:block/misc/phyto_tnt_side"
+    }
+}

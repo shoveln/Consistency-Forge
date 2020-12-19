@@ -1,0 +1,6 @@
+{
+    "parent": "thermal:item/template/underwater_minecart",
+    "textures": {
+        "minecart": "thermal:entity/underwater_minecart"
+    }
+}
