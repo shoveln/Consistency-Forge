@@ -1,0 +1,8 @@
+{
+    "parent": "item/template/cake",
+    "textures": {
+    "bottom": "telepastries:block/overworld/cake_bottom",
+    "top": "telepastries:block/overworld/cake_top",
+    "side": "telepastries:block/overworld/cake_side"
+    }
+}

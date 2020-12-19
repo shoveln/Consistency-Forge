@@ -1,0 +1,8 @@
+{
+    "parent": "item/template/cake",
+    "textures": {
+    "bottom": "telepastries:block/end/cake_bottom",
+    "top": "telepastries:block/end/cake_top",
+    "side": "telepastries:block/end/cake_side"
+    }
+}
