@@ -1,5 +1,40 @@
 # Changelog
 
+## 3.3.0 - 2021-1-2
+### Added
+- [Golden Hopper](https://www.curseforge.com/minecraft/mc-mods/golden-hopper)
+    - Golden Hopper
+    - Golden Hopper Minecart
+- [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
+    - Workbench
+    - Auto Workbench
+    - Refinery
+    - Metal Press
+    - Arc Furnace
+    - Bottling Machine
+    - Garden Cloche
+    - Crusher
+    - Fermenter
+    - Mixer
+    - Sawmill
+    - Squeezer
+    - Heavy Plated Shield
+    - Lantern
+    - Electric Lantern
+    - Redstone Breaker
+    - Posts
+    - Transformers
+    - Floodlight
+- [TelePastries](https://www.curseforge.com/minecraft/mc-mods/telepastries)
+    - Cakes
+- [Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)
+    - Cakes
+- [Thermal Locomotion](https://www.curseforge.com/minecraft/mc-mods/thermal-locomotion)
+    - Explosive Minecarts
+    - Underwater Minecart
+### Removed
+- Armor Stand (To be included in separate resource pack)
+
 ## 3.2.0 - 2020-10-21
 ### Added
 - [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
