@@ -13,6 +13,7 @@ A Minecraft resource pack that changes some item models from sprites into their 
 - [End: Reborn](https://www.curseforge.com/minecraft/mc-mods/end-reborn)
 - [Endergetic Expansion](https://www.curseforge.com/minecraft/mc-mods/endergetic)
 - [Enhanced Mushrooms](https://www.curseforge.com/minecraft/mc-mods/enhanced-mushrooms)
+- [Golden Hopper](https://www.curseforge.com/minecraft/mc-mods/golden-hopper)
 - [Good Night's Sleep](https://www.curseforge.com/minecraft/mc-mods/good-nights-sleep)
 - [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 - [Inspirations](https://www.curseforge.com/minecraft/mc-mods/inspirations)
@@ -22,6 +23,9 @@ A Minecraft resource pack that changes some item models from sprites into their 
 - [Oh The Biomes  You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
 - [Simple Farming](https://www.curseforge.com/minecraft/mc-mods/simple-farming)
+- [TelePastries](https://www.curseforge.com/minecraft/mc-mods/telepastries)
+- [Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)
+- [Thermal Locomotion](https://www.curseforge.com/minecraft/mc-mods/thermal-locomotion)
 - [Torcherino](https://www.curseforge.com/minecraft/mc-mods/torcherino)
 - [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)
 
