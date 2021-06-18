@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/item_frame",
+    "textures": {
+        "back": "minecraft:block/glass",
+        "wood": "minecraft:block/white_stained_glass"
+    }
+}

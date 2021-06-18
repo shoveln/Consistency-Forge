@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/item_frame",
+    "textures": {
+        "back": "tconstruct:block/item_frame_background",
+        "wood": "tconstruct:block/storage/cobalt"
+    }
+}

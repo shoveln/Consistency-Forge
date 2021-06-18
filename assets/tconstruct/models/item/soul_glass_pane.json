@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/pane",
+    "textures": {
+        "edge": "tconstruct:block/soul_glass_top",
+        "pane": "tconstruct:block/soul_glass"
+    }
+}
