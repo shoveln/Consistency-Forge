@@ -1,0 +1,6 @@
+{
+    "parent": "item/template/lantern",
+    "textures": {
+        "lantern": "byg:block/therium_lantern"
+    }
+}

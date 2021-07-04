@@ -1,6 +1,6 @@
 {
     "parent": "item/template/lantern",
     "textures": {
-        "lantern": "byg:blocks/glowstone_lantern"
+        "lantern": "byg:block/glowstone_lantern"
     }
 }
