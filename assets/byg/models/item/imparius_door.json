@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "byg:block/imparius_door_top",
+        "bottom": "byg:block/imparius_door_bottom"
+    }
+}

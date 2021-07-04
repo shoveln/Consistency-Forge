@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "byg:block/ether_door_top",
+        "bottom": "byg:block/ether_door_bottom"
+    }
+}

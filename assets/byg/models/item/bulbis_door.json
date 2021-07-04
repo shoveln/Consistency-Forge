@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "byg:block/bulbis_door_top",
+        "bottom": "byg:block/bulbis_door_bottom"
+    }
+}
