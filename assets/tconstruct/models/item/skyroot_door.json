@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "tconstruct:block/wood/skyroot/door_top",
+        "bottom": "tconstruct:block/wood/skyroot/door_bottom"
+    }
+}

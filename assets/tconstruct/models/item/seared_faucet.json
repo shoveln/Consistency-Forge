@@ -1,0 +1,6 @@
+{
+    "parent": "tconstruct:item/template/faucet",
+    "textures": {
+        "faucet": "tconstruct:block/smeltery/seared/stone"
+    }
+}

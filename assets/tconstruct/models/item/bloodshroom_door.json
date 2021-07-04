@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "tconstruct:block/wood/bloodshroom/door_top",
+        "bottom": "tconstruct:block/wood/bloodshroom/door_bottom"
+    }
+}

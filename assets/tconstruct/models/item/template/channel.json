@@ -1,0 +1,38 @@
+{
+    "parent": "tconstruct:item/orientation/channel",
+    "elements": [
+        {   "from": [ 4, 4, 0 ], 
+            "to": [ 12, 6, 16 ], 
+            "faces": {
+                "down":  { "texture": "#channel" },
+                "up":    { "texture": "#channel" },
+                "north": { "texture": "#channel" },
+                "south": { "texture": "#channel" },
+                "west":  { "texture": "#channel" },
+                "east":  { "texture": "#channel" }
+            }
+        },
+        {   "from": [ 10, 6, 0 ], 
+            "to": [ 12, 9, 16 ], 
+            "faces": {
+                "down":  { "texture": "#channel" },
+                "up":    { "texture": "#channel" },
+                "north": { "texture": "#channel" },
+                "south": { "texture": "#channel" },
+                "west":  { "texture": "#channel" },
+                "east":  { "texture": "#channel" }
+            }
+        },
+        {   "from": [ 4, 6, 0 ], 
+            "to": [ 6, 9, 16 ], 
+            "faces": {
+                "down":  { "texture": "#channel" },
+                "up":    { "texture": "#channel" },
+                "north": { "texture": "#channel" },
+                "south": { "texture": "#channel" },
+                "west":  { "texture": "#channel" },
+                "east":  { "texture": "#channel" }
+            }
+        }
+    ]
+}
