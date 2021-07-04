@@ -1,0 +1,6 @@
+{
+    "parent": "item/template/boat",
+    "textures": {
+        "boat": "byg:entity/boat/palm"
+    }
+}

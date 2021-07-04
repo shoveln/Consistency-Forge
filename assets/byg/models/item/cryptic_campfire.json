@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/campfire",
+    "textures": {
+        "log": "block/campfire_log",
+        "lit_log": "byg:block/cryptic_campfire_log_lit"
+    }
+}
