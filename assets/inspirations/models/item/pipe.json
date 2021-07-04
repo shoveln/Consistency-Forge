@@ -1,0 +1,6 @@
+{
+    "parent": "inspirations:item/template/pipe",
+    "textures": {
+        "pipe": "block/hopper_outside"
+    }
+}
