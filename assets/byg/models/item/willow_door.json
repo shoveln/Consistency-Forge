@@ -1,7 +1,7 @@
 {
     "parent": "item/template/door",
     "textures": {
-        "top": "byg:blocks/willow_door_top",
-        "bottom": "byg:blocks/willow_door_bottom"
+        "top": "byg:block/willow_door_top",
+        "bottom": "byg:block/willow_door_bottom"
     }
 }
