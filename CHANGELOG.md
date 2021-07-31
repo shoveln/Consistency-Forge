@@ -1,5 +1,40 @@
 # Changelog
 
+## 3.4.0 - 2021-7-31
+### Added
+- [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
+    - Circuit Table
+    - Assembler
+    - Improved Blast Furnace
+- [Inspirations](https://www.curseforge.com/minecraft/mc-mods/inspirations)
+    - Pipe
+    - Soul Torch Lever
+- [Integrated Dynamics](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics) + Addons
+    - Menril Door
+    - Torches
+    - Parts (Reader, Connector, etc.)
+- [Oh The Biomes  You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)
+    - Doors
+    - Therium Lantern
+    - Campfires
+    - Palm Boat
+    - Therium Glass Pane
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
+    - Glowing Item Frame
+    - Colored Framed Glass Panes
+- [Realistic Torches](https://www.curseforge.com/minecraft/mc-mods/realistic-torches)
+    - Torches
+- [Tinkers' Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
+    - Item Frames
+    - Glass Panes
+    - Faucets
+    - Channels
+    - Lanerns
+    - Doors
+### Fixed
+- Immersive Engineering workbench used incorrect block model, adjusted size in GUI
+- Corrected Biomes You Go door/lantern texturue paths
+
 ## 3.3.0 - 2021-1-2
 ### Added
 - [Golden Hopper](https://www.curseforge.com/minecraft/mc-mods/golden-hopper)
