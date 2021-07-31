@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door",
+    "textures": {
+        "top": "integrateddynamics:block/door_menril_upper",
+        "bottom": "integrateddynamics:block/door_menril_lower"
+    }
+}

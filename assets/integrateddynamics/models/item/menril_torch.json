@@ -1,0 +1,6 @@
+{
+    "parent": "item/template/torch",
+    "textures": {
+        "torch": "integrateddynamics:block/menril_torch"
+    }
+}
