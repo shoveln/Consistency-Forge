@@ -17,15 +17,18 @@ A Minecraft resource pack that changes some item models from sprites into their 
 - [Good Night's Sleep](https://www.curseforge.com/minecraft/mc-mods/good-nights-sleep)
 - [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 - [Inspirations](https://www.curseforge.com/minecraft/mc-mods/inspirations)
+- [Integrated Dynamics](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics) + Addons
 - [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
 - [More Cauldrons](https://www.curseforge.com/minecraft/mc-mods/more-cauldrons)
 - [Neapolitan](https://www.curseforge.com/minecraft/mc-mods/neapolitan)
 - [Oh The Biomes  You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
+- [Realistic Torches](https://www.curseforge.com/minecraft/mc-mods/realistic-torches)
 - [Simple Farming](https://www.curseforge.com/minecraft/mc-mods/simple-farming)
 - [TelePastries](https://www.curseforge.com/minecraft/mc-mods/telepastries)
 - [Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)
 - [Thermal Locomotion](https://www.curseforge.com/minecraft/mc-mods/thermal-locomotion)
+- [Tinkers' Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 - [Torcherino](https://www.curseforge.com/minecraft/mc-mods/torcherino)
 - [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)
 
